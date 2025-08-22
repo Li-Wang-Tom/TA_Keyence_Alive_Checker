@@ -108,7 +108,7 @@ TA_Keyence_Alive_Checker/
 ## 📝 License
 
 This project is licensed under the MIT License.  
-See the [LICENSE](https://claude.ai/chat/LICENSE) file for details.
+See the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 作者
 
